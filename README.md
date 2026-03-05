@@ -202,7 +202,7 @@ Please keep contributions focused on features that benefit small-to-medium churc
 
 
 
- See [LICENSE](./LICENSE) for full terms.
+ See [LICENSE](./LICENSE.md) for full terms.
 
 
 

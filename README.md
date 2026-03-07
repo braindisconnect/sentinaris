@@ -101,7 +101,7 @@ Please keep contributions focused on features that benefit small-to-medium churc
 
 ## 📄 License
 
-Sentinaris is licensed under the **GNU General Public License v3.0 (GPL v3)** — free to use, modify, and distribute. If you distribute Sentinaris or a modified version, you must also make the source code available under the same GPL v3 license. See [LICENSE](./LICENSE) for full terms or visit [gnu.org/licenses/gpl-3.0](https://www.gnu.org/licenses/gpl-3.0).
+Sentinaris is licensed under the **GNU General Public License v3.0 (GPL v3)** — free to use, modify, and distribute. If you distribute Sentinaris or a modified version, you must also make the source code available under the same GPL v3 license. See [LICENSE](./LICENSE.md) for full terms or visit [gnu.org/licenses/gpl-3.0](https://www.gnu.org/licenses/gpl-3.0).
 
 ---
 

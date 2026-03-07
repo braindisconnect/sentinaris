@@ -59,7 +59,7 @@ Sentinaris is **free and open source**. You are welcome to use it at no cost as 
 | **Basic Support** | $20/mo | 3 support tickets/month · 24hr response |
 | **Premium Support** | $35/mo | 5 support tickets/month · 24hr response · 1 video call/month |
 
-> 💛 **Half of all hosting and support revenue is donated to our church.**
+> 💛 **Half of all hosting revenue is donated to our church.**
 
 Managed hosting pricing is based on congregation size:
 - Under 100 members → **$25/month**

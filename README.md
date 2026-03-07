@@ -10,8 +10,6 @@
 - **Member Management** — Track congregation members, families, contact info, and attendance
 - **Event & Service Scheduling** — Organize services, events, and ministry calendars
 - **Giving & Donations** — Record tithes and offerings, generate giving statements
-- **Volunteer Management** — Schedule and coordinate ministry volunteers
-- **Communication Tools** — Send announcements and updates to your congregation
 - **Reports & Insights** — Understand your church's growth and engagement
 - **Multi-user Roles** — Admin, Pastor, Staff, and Volunteer permission levels
 - **Responsive Design** — Works on desktop, tablet, and mobile
